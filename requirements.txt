@@ -1,0 +1,11 @@
+pandas
+numpy
+statsmodels
+matplotlib
+scipy
+pyarrow
+fastparquet
+
+# fetching only
+wrds
+pandas-datareader

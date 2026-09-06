@@ -1,0 +1,7 @@
+# ---- Project data ----
+data/
+*.parquet
+*.pkl
+*.csv
+
+.venv/
