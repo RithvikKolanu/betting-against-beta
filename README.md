@@ -101,15 +101,6 @@ jupyter lab notebooks/bab_replication.ipynb
 The first run pulls from WRDS and caches to `data/` as parquet (gitignored); subsequent
 runs load from cache. Run the notebook top to bottom.
 
-## Repository
-
-```
-src/            data pull, beta estimation, portfolio construction, evaluation
-notebooks/      bab_replication.ipynb (the full narrative and results)
-tests/          test_betas.py (the beta estimation is the correctness-critical piece)
-docs/           figures used in this README
-```
-
 ## Reference
 
 Frazzini, A., & Pedersen, L. H. (2014). Betting against beta. *Journal of Financial
