@@ -4,4 +4,19 @@ data/
 *.pkl
 *.csv
 
+# ---- Credentials (WRDS) ----
+.env
+.pgpass
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Environment ----
 .venv/
+
+# ---- OS ----
+.DS_Store
